@@ -1,6 +1,6 @@
 ### GPA-Calculator - A GPA calculator built using HTML, CSS and JavaScript.
 
-#### This GPA calculator is designed for &#8546; & &#8547; - Semester students in the Information Science & Engineering (ISE) and Computer Science & Engineering (CSE) programs at JSS Science and Technology University, Mysore. It offers an easy and efficient way to manage and calculate your GPA.
+#### This GPA calculator is designed for &#8546; & &#8547; - Semester students in the Information Science & Engineering (ISE) and Computer Science & Engineering (CSE) programs at JSS Science and Technology University, Mysore. It offers an easy and efficient way to calculate your GPA.
 
 ## Features
 
@@ -16,7 +16,7 @@ Visit the GPA Calculator in action [here](https://gpa-calculator-by-chinmay.netl
 
 ## Installation
 
-If you'd like to host the GPA Calculator locally or integrate it into your website, follow these steps:
+If you'd like to host the GPA Calculator locally, follow these steps:
 
 1. Clone the repository:
 ```
