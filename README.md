@@ -19,8 +19,11 @@ Visit the GPA Calculator in action [here](https://gpa-calculator-by-chinmay.netl
 If you'd like to host the GPA Calculator locally or integrate it into your website, follow these steps:
 
 1. Clone the repository:
+```
+git clone https://github.com/Chinmay-Ankolekar/GPA-Calculator.git
+```
 
-2. Open the `index.html` file in a web browser with live server.
+3. Open the `index.html` file in a web browser with live server.
 
 ## Contributions
 
