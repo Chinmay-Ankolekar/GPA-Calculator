@@ -27,15 +27,4 @@ git clone https://github.com/Chinmay-Ankolekar/GPA-Calculator.git
 
 ## Contributions
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the project.
-
-2. Create a new branch for your feature: `git checkout -b feature-name`
-
-3. Commit your changes: `git commit -m 'Add a new feature'`
-
-4. Submit a pull request to the main branch of the original repository.
-
- Feel free to suggest any improvements by creating an issue.
- You can also work on an already open issue and pull request when finished, so I can review the changes and eventually merge them to the main branch.
+Contributions are welcome! 
